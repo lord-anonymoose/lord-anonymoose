@@ -15,9 +15,12 @@ Welcome to the digital corner where **passion for code** meets **creative soluti
 
 ## 📂 **Projects**
 - 📚 **[GoSocial](https://github.com/lord-anonymoose/social-media-app)** – Simple social media app, focused on Firebase integration for real-time updates.
+- ✅ **[MyHabits](https://github.com/lord-anonymoose/MyHabits)** – Habit tracking app
 - 🔥 **[SuperBook App](https://github.com/lord-anonymoose/SuperBook)** – A memory game app built with SwiftUI and CoreData.
-- 🗂️ **[File Manager](https://github.com/lord-anonymoose/FileManager/tree/main/FileManager)** – A simple file management tool for iOS that lets users manage documents locally.
-- 🎥 **[Basic Video Player](https://github.com/lord-anonymoose/BasicVideoPlayer)** – A basic iOS video player built using Swift, demonstrating media handling and UI controls.
+- 🗂️ **[File Manager](https://github.com/lord-anonymoose/FileManager)** – A simple file management tool for iOS that lets users manage documents locally.
+- 🎥 **[Basic Video Player](https://github.com/lord-anonymoose/BasicVideoPlayer)** – A basic iOS video player built using Swift, demonstrating video handling and UI controls.
+- 🎵 **[Music App](https://github.com/lord-anonymoose/Music)** – A basic iOS music player built using Swift, demonstrating audio handling and UI controls.
+- 🧠 **[Chuck's Wisdom](https://github.com/lord-anonymoose/Chuck-s-Wisdom)** – A simple app for fetching "Chuck's" quotes from [chucknorris.io](https://api.chucknorris.io) using API
 - 🛠️ **[More on my GitHub](https://github.com/lord-anonymoose)** – Dive into more projects
 
 ---
