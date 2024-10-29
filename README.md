@@ -20,7 +20,7 @@ Welcome to the digital corner where **passion for code** meets **creative soluti
 - 🗂️ **[File Manager](https://github.com/lord-anonymoose/FileManager)** – A simple file management tool for iOS that lets users manage documents locally.
 - 🎥 **[Basic Video Player](https://github.com/lord-anonymoose/BasicVideoPlayer)** – A basic iOS video player built using Swift, demonstrating video handling and UI controls.
 - 🎵 **[Music App](https://github.com/lord-anonymoose/Music)** – A basic iOS music player built using Swift, demonstrating audio handling and UI controls.
-- 🔑 **[Sign Up screen sample](https://github.com/lord-anonymoose/sign-up-screen-sample)** - A set of screen for logging in and signing up built as a test task for one of my interviews
+- 🔑 **[Sign Up Screen Sample](https://github.com/lord-anonymoose/sign-up-screen-sample)** - A set of screen for logging in and signing up built as a test task for one of my interviews
 - 🧠 **[Chuck's Wisdom](https://github.com/lord-anonymoose/Chuck-s-Wisdom)** – A simple app for fetching "Chuck's" quotes from [chucknorris.io](https://api.chucknorris.io) using API
 - 🛠️ **[More on my GitHub](https://github.com/lord-anonymoose)** – Dive into more projects
 
