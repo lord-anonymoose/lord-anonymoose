@@ -9,8 +9,8 @@ Welcome to the digital corner where **passion for code** meets **creative soluti
 - **📱 iOS:** `UIKit`, `SwiftUI`, `CoreData`
 - **🪛 Tools:** `Git`, `Xcode`, `Swift Package Manager`, `CocoaPods`, `TestFlight`, `Figma`
 - **🏛️ Architecture:** `MVC`, `MVVM`, `Coordinator`, `Singleton`
-- **🔌 Networking:** Moya, Alamofire, REST API  
-- **⚙️ QA/Automation:** `Selenium`, `Pytest`, `Airflow`
+- **🔌 Networking:** `Moya`, `Alamofire`, `REST API`  
+- **⚙️ QA/Automation:** `Selenium`, `Pytest`, `WebDriver`
 - **💽 DWH:** `Data Modelling`, `SAP PowerDesigner`, `Apache AirFlow`, `Data Vault`
 - **👥 Soft Skills:** `Team leadership`, `Code Review`, `Public speaking`, `Agile`, `Scrum`
 
