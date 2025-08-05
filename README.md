@@ -7,9 +7,9 @@ Welcome to the digital corner where **passion for code** meets **creative soluti
 ## 🛠️ **Tech Stack & Skills**
 - **Languages:** `Swift`, `Python`, `SQL`
 - **iOS Frameworks:** `UIKit`, `SwiftUI`, `CoreData`
-- **Tools:** `Xcode`, `Firebase`, `Swift Package Manager`, `CocoaPods`, `Git`
-- **Architecture:** `MVC`, `MVVM`, `Singleton`, `Protocol-Oriented Programming`
-- **Other Skills:** `Firebase Auth`, `Realtime Database`, `Networking`, `Database architecture`
+- **Tools:** `Git`, `Xcode`, `Firebase`, `Swift Package Manager`, `CocoaPods`, `TestFlight`, `Figma`
+- **Architecture:** `MVC`, `MVVM`, `Coordinator`, `Singleton`
+- **Other Skills:** `REST API`, `SQL`, `Code Review`, `Agile`, `Scrum`, `Team Management`, `Selenium`, `Data analysis`, `Apache AirFlow`, `Data Vault`, `Public speaking`
 
 ---
 
@@ -36,7 +36,7 @@ I’m always open to exciting collaborations and new opportunities. Let’s conn
 ---
 
 ## 👀 About Me
-With over 4 years in IT and a transition from data analytics to mobile development, I thrive on solving complex problems through technology. I’m passionate about **clean architecture** and crafting user experiences that leave a lasting impact.
+With over 5 years in IT and a transition from data analytics to mobile development, I thrive on solving complex problems through technology. I’m passionate about **clean architecture** and crafting user experiences that leave a lasting impact.
 
 ✨ _When I’m not coding, you can find me exploring the latest in tech, gaming, or working on side projects to level up my skills._ 🎮🛠️
 
