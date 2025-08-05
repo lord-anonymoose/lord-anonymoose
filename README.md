@@ -5,7 +5,7 @@ Welcome to the digital corner where **passion for code** meets **creative soluti
 ---
 
 ## 🛠️ **Tech Stack & Skills**
-- **Languages:** `Swift`, `Objective-C`, `Python`, `SQL`
+- **Languages:** `Swift`, `Python`, `SQL`
 - **iOS Frameworks:** `UIKit`, `SwiftUI`, `CoreData`
 - **Tools:** `Xcode`, `Firebase`, `Swift Package Manager`, `CocoaPods`, `Git`
 - **Architecture:** `MVC`, `MVVM`, `Singleton`, `Protocol-Oriented Programming`
