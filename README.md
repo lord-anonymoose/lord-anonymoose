@@ -3,6 +3,11 @@
 Welcome to the digital corner where **passion for code** meets **creative solutions**. I'm Philipp, an iOS Developer with a strong background in analytics and a love for **clean code**. My journey from analyst to developer has been driven by a desire to craft beautiful and functional mobile experiences. 💻📱
 
 ---
+## 📄 CV
+- **[English version](https://github.com/lord-anonymoose/CV/blob/main/CV%20(ENG).pdf)**
+- **[Russian version](https://github.com/lord-anonymoose/CV/blob/main/CV%20(RU).pdf)**
+
+---
 
 ## 🛠 **Tech Stack & Skills**
 - **💻 Languages:** `Swift`, `Python`, `SQL`
