@@ -9,7 +9,7 @@ Welcome to the digital corner where **passion for code** meets **creative soluti
 - **iOS Frameworks:** `UIKit`, `SwiftUI`, `CoreData`
 - **Tools:** `Git`, `Xcode`, `Firebase`, `Swift Package Manager`, `CocoaPods`, `TestFlight`, `Figma`
 - **Architecture:** `MVC`, `MVVM`, `Coordinator`, `Singleton`
-- **Other Skills:** `REST API`, `SQL`, `Code Review`, `Agile`, `Scrum`, `Team Management`, `Selenium`, `Data analysis`, `Apache AirFlow`, `Data Vault`, `Public speaking`
+- **Other Skills:** `REST API`, `Moya`, `Alamofire`, `SQL`, `Code Review`, `Agile`, `Scrum`, `Team Management`, `Selenium`, `Data analysis`, `Apache AirFlow`, `Data Vault`, `Public speaking`
 
 ---
 
