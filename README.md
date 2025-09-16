@@ -12,6 +12,7 @@ Welcome to the digital corner where **passion for code** meets **creative soluti
 ## 🛠 **Tech Stack & Skills**
 - **💻 Languages:** `SQL`, `Python`, `Swift`
 - **💽 DWH:** `Data Modelling`, `SAP PowerDesigner`, `Apache AirFlow`, `Data Vault`
+- **📚Documentation:** `BPMN`, `UML`, `Jira`, `Confluence`, `User Manuals`, `Scrum artifacts`
 - **📱 iOS:** `UIKit`, `SwiftUI`, `CoreData`
 - **🪛 Tools:** `Git`, `Xcode`, `Swift Package Manager`, `CocoaPods`, `TestFlight`, `Figma`
 - **🏛️ Architecture:** `MVC`, `MVVM`, `Coordinator`, `Singleton`
