@@ -22,6 +22,7 @@ Welcome to the digital corner where **passion for code** meets **creative soluti
 ---
 
 ## 📂 **Projects**
+- 💽 **[DataVault_Modeller](https://github.com/lord-anonymoose/DataVault_Modeller)** - Database modelling tool built with Python as my university Thesis
 - 📚 **[GoSocial](https://github.com/lord-anonymoose/social-media-app)** – Simple social media app, focused on Firebase integration for real-time updates.
 - ✅ **[MyHabits](https://github.com/lord-anonymoose/MyHabits)** – Habit tracking app
 - 🔥 **[SuperBook App](https://github.com/lord-anonymoose/SuperBook)** – A memory game app built with SwiftUI and CoreData.
