@@ -1,6 +1,6 @@
-# 👨‍💻 Philipp Lazarev – iOS Developer & Tech Enthusiast 🚀
+# 👨‍💻 Philipp Lazarev – System Analyst and iOS DEV Enthusiast 🚀
 
-Welcome to the digital corner where **passion for code** meets **creative solutions**. I'm Philipp, an iOS Developer with a strong background in analytics and a love for **clean code**. My journey from analyst to developer has been driven by a desire to craft beautiful and functional mobile experiences. 💻📱
+Welcome to the digital corner where **passion for code** meets **creative solutions**. I'm Philipp, a system analyst with a strong background in DWH and a love for software development. Additionally, I am developing expertise in iOS (Swift, UIKit) through pet projects and app development — this is my passion and area of growth. 💻📱
 
 ---
 ## 📄 CV
@@ -10,13 +10,13 @@ Welcome to the digital corner where **passion for code** meets **creative soluti
 ---
 
 ## 🛠 **Tech Stack & Skills**
-- **💻 Languages:** `Swift`, `Python`, `SQL`
+- **💻 Languages:** `SQL`, `Python`, `Swift`
+- **💽 DWH:** `Data Modelling`, `SAP PowerDesigner`, `Apache AirFlow`, `Data Vault`
 - **📱 iOS:** `UIKit`, `SwiftUI`, `CoreData`
 - **🪛 Tools:** `Git`, `Xcode`, `Swift Package Manager`, `CocoaPods`, `TestFlight`, `Figma`
 - **🏛️ Architecture:** `MVC`, `MVVM`, `Coordinator`, `Singleton`
 - **🔌 Networking:** `Moya`, `Alamofire`, `REST API`  
 - **⚙️ QA/Automation:** `Selenium`, `Pytest`, `WebDriver`
-- **💽 DWH:** `Data Modelling`, `SAP PowerDesigner`, `Apache AirFlow`, `Data Vault`
 - **👥 Soft Skills:** `Team leadership`, `Code Review`, `Public speaking`, `Agile`, `Scrum`
 
 ---
